@@ -56,6 +56,12 @@ if (!img.getAttribute('aria-hidden'))
 
 ---
 
+## Result
+![image](https://github.com/user-attachments/assets/3fc8386d-ef21-433e-9fa9-86d1193c7898)
+
+---
+
+
 ## 📄 License
 
 MIT License – see [LICENSE](./LICENSE) for details.
