@@ -51,7 +51,7 @@ if (img.getAttribute('aria-hidden') === 'true')
 to:
 
 ```javascript
-if (!img.getAttribute('aria-hidden'))
+if (img.getAttribute('aria-hidden') === 'false' || img.getAttribute('aria-hidden') === null) {
 ```
 
 ---
